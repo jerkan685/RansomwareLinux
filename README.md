@@ -1,0 +1,2 @@
+# RansomwareLinux
+Ransomware para linux
